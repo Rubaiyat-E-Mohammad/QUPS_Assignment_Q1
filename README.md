@@ -7,7 +7,7 @@ This repository contains a Java Selenium program that performs a Google search f
 1. Clone the repository:
 
    ```bash
-   git clone [https://github.com/Rubaiyat-E-Mohammad/QUPS_Assignment_Q1.git](https://github.com/Rubaiyat-E-Mohammad/Qups_Assignment_Q1.git)
+   git clone https://github.com/Rubaiyat-E-Mohammad/Qups_Assignment_Q1.git
   
 2. Navigate to the project directory:
 	cd Q1
